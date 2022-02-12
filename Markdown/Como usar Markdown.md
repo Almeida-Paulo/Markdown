@@ -2,12 +2,17 @@
 
 ; OBS: veja no modo fonte (clicando em <> na parte superior)
 
-## Introduction
+## Introdução
 
 Markdown é uma sintaxe de formatação de texto simples.
 
 Os parágrafos são separados por linhas vazias.
 
+Estilos de tamanho texto
+
+# Heading 1
+
+## Heading 2
 
 ### Heading 3
 
@@ -17,12 +22,12 @@ Os parágrafos são separados por linhas vazias.
 
 ###### Heading 6
 
-## Character Styles
+## Estilos de caracteres
 
-These spans result in 'em' tags:
+Essas sentenças resultam em tags de ênfase 'em':
 
-- *single asterisks* ;utilizar "*single asterisks*"
-- _single underscores_
+- *asteriscos simples*
+- _sublinha simples_
 
 These spans result in 'strong' tags:
 
