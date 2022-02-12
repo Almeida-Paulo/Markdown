@@ -125,7 +125,7 @@ Term #2
 
 O `código` embutido pode ser delimitado com caracteres.
 
-Este bloco de código é cercado com três crases e tem seu idioma especificado:
+Este bloco de código é cercado com três crases e tem sua linguagem especificada:
 
 ```javascript
 var oldUnload = window.onbeforeunload;
@@ -137,7 +137,7 @@ window.onbeforeunload = function() {
 };
 ```
 
-Este bloco de código é cercado com três til e tem seu idioma especificado:
+Este bloco de código é cercado com três til e tem sua linguagem especificada:
 
 ~~~ruby
 require 'redcarpet'
@@ -145,7 +145,7 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ~~~
 
-Este bloco de código é criado pela indentação do código, mas nenhum idioma pode ser especificado:
+Este bloco de código é criado pela indentação do código, mas nenhuma linguagem pode ser especificada:
 
     var foo = 1;
 
