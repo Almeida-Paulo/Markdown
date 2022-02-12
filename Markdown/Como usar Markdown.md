@@ -1,6 +1,6 @@
 # Markdown Document
 
-\\ OBS:
+; OBS: veja no modo fonte (clicando em <> na parte superior)
 
 ## Introduction
 
