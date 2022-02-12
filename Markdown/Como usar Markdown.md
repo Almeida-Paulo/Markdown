@@ -1,19 +1,21 @@
-# Markdown Document ;Utilize "#" para caracteres tamanho 1 \\teste
+# Markdown Document
 
-## Introduction ;"##" para caracteres tamanho 2
+\\ OBS:
+
+## Introduction
 
 Markdown é uma sintaxe de formatação de texto simples.
 
 Os parágrafos são separados por linhas vazias.
 
 
-### Heading 3 ;"###" caracteres tamanho 3
+### Heading 3
 
-#### Heading 4 ;"####" caracteres tamanho 4
+#### Heading 4
 
-##### Heading 5 ;"#####" caracteres tamanho 5
+##### Heading 5
 
-###### Heading 6 ;"######" caracteres tamanho 6
+###### Heading 6
 
 ## Character Styles
 
