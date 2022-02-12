@@ -17,4 +17,4 @@
  
  
  
- É só isso mesmo :;):
+ É só isso mesmo :wave:
