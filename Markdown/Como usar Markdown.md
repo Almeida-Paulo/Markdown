@@ -10,10 +10,6 @@ Os parágrafos são separados por linhas vazias.
 
 ##Estilos de tamanho texto
 
-#- Heading 1
-
-## Heading 2
-
 ### Heading 3
 
 #### Heading 4
@@ -27,34 +23,34 @@ Os parágrafos são separados por linhas vazias.
 Essas sentenças resultam em tags de ênfase 'em':
 
 - *asteriscos simples*
-- _sublinha simples_
+- _sublinhas simples_
 
-These spans result in 'strong' tags:
+Essas sentenças resultam em tags de importância, como em 'strong':
 
-- **double asterisks**
-- __double underscores__
+- **asteriscos duplos**
+- __asteriscos duplos__
 
-These spans result in 'del' tags:
+Essas sentenças resultam em tags riscadas 'del':
 
-- ~~double tildes~~
+- ~~acentos til duplos~~
 
-## Links and Images
+## Links e Imagens
 
-This is an [example inline link](https://www.actiprosoftware.com "Actipro Software") with tooltip text specified.
-[This link](https://www.actiprosoftware.com) has no tooltip text specified.
+Este é um [exemplo de link embutido](https://dio.me/sign-up?ref=NABGWG3Y4C "Site plataforma DIO") com texto indicando o conteúdo do link.
+[Este link](https://dio.me/sign-up?ref=NABGWG3Y4C) não tem texto imbutido indicando o conteúdo, "dica de ferramenta".
 
-URLs and e-mail addresses can be turned into links by enclosing them in angle braces:
+URLs e endereços de e-mail podem ser transformados em links colocando-os entre chaves angulares:
 
-- <https://www.actiprosoftware.com>  
-- <support@microsoft.com>
+- <https://daringfireball.net/projects/markdown/>  
+- <https://github.com/>
 
-[This link](#markdown-document) links to the first heading in this document via custom ID.
+[Este link](#markdown-document) é vinculado ao primeiro título deste documento por meio de um ID personalizado.
 
 ## Images
 
 This is an example of an image:
 
-![Image](https://www.microsoft.com/favicon.ico)
+![Image](https://avatars.githubusercontent.com/u/9919?s=200&v=4)
 
 This is an example of an image with a link:
 
