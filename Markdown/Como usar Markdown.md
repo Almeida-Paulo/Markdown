@@ -28,7 +28,7 @@ Essas sentenças resultam em tags de ênfase 'em':
 Essas sentenças resultam em tags de importância, como em 'strong':
 
 - **asteriscos duplos**
-- __asteriscos duplos__
+- __sublinhas duplas__
 
 Essas sentenças resultam em tags riscadas 'del':
 
@@ -46,29 +46,29 @@ URLs e endereços de e-mail podem ser transformados em links colocando-os entre 
 
 [Este link](#markdown-document) é vinculado ao primeiro título deste documento por meio de um ID personalizado.
 
-## Images
+## Imagens
 
-This is an example of an image:
+Este é um exemplo de uma imagem:
 
-![Image](https://avatars.githubusercontent.com/u/9919?s=200&v=4)
+![Image](https://github.com/favicon.ico)
 
-This is an example of an image with a link:
+Este é um exemplo de uma imagem com um link:
 
-[![Image](https://www.google.com/favicon.ico)](https://www.google.com)
+[![Image](https://github.com/favicon.ico)](https://github.com)
 
-## Blockquotes
+## Citações em bloco
 
-Markdown said:
+Markdown diz:
 
-> This is the first level of quoting.
+> Este é o primeiro nível de citação.
 >
-> > This is a nested blockquote.
+> > Esta é uma citação de bloco ligada/aninhada.
 >
-> Back to the first level.
+> De volta ao primeiro nível.
 
-## Lists
+## Listas
 
-Unordered list using minus signs (-):
+Lista não ordenada usando sinais de menos (-):
 
 - Step 1
 - Step 2
@@ -77,7 +77,7 @@ Unordered list using minus signs (-):
   - Step 3b
   - Step 3c
 
-Unordered list using plus signs (+):
+Lista não ordenada usando sinais de adição (+):
 
 + Step 1
 + Step 2
@@ -86,7 +86,7 @@ Unordered list using plus signs (+):
   + Step 3b
   + Step 3c
 
-Unordered list using asterisks (*):
+Lista não ordenada usando asteriscos (*):
 
 * Step 1
 * Step 2
@@ -95,7 +95,7 @@ Unordered list using asterisks (*):
   * Step 3b
   * Step 3c
 
-Ordered list:
+Lista ordenada:
 
 1. Step 1
 1. Step 2
@@ -104,7 +104,7 @@ Ordered list:
     1. Step 3b
     1. Step 3c
 
-Nested (unordered within ordered) list:
+Lista ligada/aninhada (não ordenada dentro de ordenada):
 
 1. Step 1
 1. Step 2
@@ -113,7 +113,7 @@ Nested (unordered within ordered) list:
     - Step 3b
     - Step 3c
 
-Definition list:
+Lista de definições:
 
 Term #1
 : This is the definition of term #1.
@@ -121,11 +121,11 @@ Term #1
 Term #2
 : This is the definition of term #2.
 
-## Code Blocks
+## Blocos de código
 
-Inline `code` can be delimited with characters.
+O `código` embutido pode ser delimitado com caracteres.
 
-This code block is fenced with three backticks and has its language specified:
+Este bloco de código é cercado com três crases e tem seu idioma especificado:
 
 ```javascript
 var oldUnload = window.onbeforeunload;
@@ -137,7 +137,7 @@ window.onbeforeunload = function() {
 };
 ```
 
-This code block is fenced with three tildes and has its language specified:
+Este bloco de código é cercado com três til e tem seu idioma especificado:
 
 ~~~ruby
 require 'redcarpet'
@@ -145,11 +145,11 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ~~~
 
-This code block is created by indenting the code, but no language can be specified:
+Este bloco de código é criado pela indentação do código, mas nenhum idioma pode ser especificado:
 
     var foo = 1;
 
-## Tables
+## Tabelas
 
 | Fruit  | Color  |
 |--------|--------|
@@ -157,9 +157,9 @@ This code block is created by indenting the code, but no language can be specifi
 | Grapes | Purple |
 | Lemons | Yellow |
 
-## Horizontal Rules
+## Regras horizontais
 
-Horizontal rules are formed by placing three or more hyphens, asterisks, or underscores on a line by themselves.
+As regras horizontais são formadas colocando três ou mais hífens, asteriscos ou sublinhados em uma linha.
 
 ---
 
@@ -167,11 +167,11 @@ Horizontal rules are formed by placing three or more hyphens, asterisks, or unde
 
 ___
 
-## HTML Tags
+## Tags HTML
 
-<strong>HTML tags</strong> can optionally be used in <em>Markdown</em>.
+<strong>tags HTML</strong> podem ser usadas opcionalmente em <em>Markdown</em>.
 
-## Special Characters
+## Caracteres especiais
 
 Unescaped:
 \ ` * _ { } [ ] ( ) # + - . !
