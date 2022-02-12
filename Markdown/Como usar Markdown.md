@@ -1,26 +1,25 @@
-# Markdown Document // Utilize #
+# Markdown Document ;Utilize "#" para caracteres tamanho 1 \\teste
 
-## Introduction 
+## Introduction ;"##" para caracteres tamanho 2
 
-Markdown is a plain text formatting syntax.
+Markdown é uma sintaxe de formatação de texto simples.
 
-Paragraphs are separated by empty lines.
+Os parágrafos são separados por linhas vazias.
 
-## Heading 2
 
-### Heading 3
+### Heading 3 ;"###" caracteres tamanho 3
 
-#### Heading 4
+#### Heading 4 ;"####" caracteres tamanho 4
 
-##### Heading 5
+##### Heading 5 ;"#####" caracteres tamanho 5
 
-###### Heading 6
+###### Heading 6 ;"######" caracteres tamanho 6
 
 ## Character Styles
 
 These spans result in 'em' tags:
 
-- *single asterisks*
+- *single asterisks* ;utilizar "*single asterisks*"
 - _single underscores_
 
 These spans result in 'strong' tags:
