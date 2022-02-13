@@ -8,7 +8,7 @@ Markdown é uma sintaxe de formatação de texto simples.
 
 Os parágrafos são separados por linhas vazias.
 
-##Estilos de tamanho texto
+## Estilos de tamanho texto
 
 ### Heading 3
 
