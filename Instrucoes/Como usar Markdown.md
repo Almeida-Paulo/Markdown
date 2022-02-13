@@ -42,7 +42,7 @@ Este é um [exemplo de link embutido](https://dio.me/sign-up?ref=NABGWG3Y4C "Sit
 URLs e endereços de e-mail podem ser transformados em links colocando-os entre chaves angulares:
 
 - <https://daringfireball.net/projects/markdown/>  
-- <https://github.com/>
+- <support@microsoft.com>
 
 [Este link](#markdown-document) é vinculado ao primeiro título deste documento por meio de um ID personalizado.
 
