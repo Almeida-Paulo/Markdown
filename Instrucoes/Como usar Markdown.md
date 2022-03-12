@@ -8,7 +8,7 @@ Markdown é uma sintaxe de formatação de texto simples.
 
 Os parágrafos são separados por linhas vazias.
 
-##Estilos de tamanho texto
+## Estilos de tamanho texto
 
 ### Heading 3
 
@@ -42,7 +42,7 @@ Este é um [exemplo de link embutido](https://dio.me/sign-up?ref=NABGWG3Y4C "Sit
 URLs e endereços de e-mail podem ser transformados em links colocando-os entre chaves angulares:
 
 - <https://daringfireball.net/projects/markdown/>  
-- <https://github.com/>
+- <support@microsoft.com>
 
 [Este link](#markdown-document) é vinculado ao primeiro título deste documento por meio de um ID personalizado.
 
@@ -50,7 +50,7 @@ URLs e endereços de e-mail podem ser transformados em links colocando-os entre 
 
 Este é um exemplo de uma imagem:
 
-![Image](https://github.com/favicon.ico)
+![Image](Markdown/Images/bandeira-nacional-brasil.cdr)
 
 Este é um exemplo de uma imagem com um link:
 
