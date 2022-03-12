@@ -50,7 +50,7 @@ URLs e endereços de e-mail podem ser transformados em links colocando-os entre 
 
 Este é um exemplo de uma imagem:
 
-![Image](https://github.com/favicon.ico)
+![Image](Images/bandeira-nacional-brasil.cdr)
 
 Este é um exemplo de uma imagem com um link:
 
